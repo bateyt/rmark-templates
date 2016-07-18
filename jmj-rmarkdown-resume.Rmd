@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: ~/GitHub/markdown-templates/svm-latex-cv.tex
+    template: ~/GitHub/rmark-templates/svm-latex-cv.tex
 geometry: margin=1in
 
 title: "Resume"
@@ -38,9 +38,9 @@ Property Manager (contract) \hspace{3em} [Kingfish Beach Retreat](https://www.vr
 
 Residential housecleaning
 
-*[South Mississippi Regional Center](http://www.smrc.state.ms.us/)*
+*Other Employment*
 
-Staff \hfill 2014-2015
+Staff, [South Mississippi Regional Center](http://www.smrc.state.ms.us/) \hfill 2014-2015
 
 # Education
 
@@ -52,16 +52,22 @@ Staff \hfill 2014-2015
 
 # Professional Skills
 
-- Executive
-  + Highly-organized
-    + Detail-oriented
-    + Analytical (problem-solving)
-    + Verbal/written communication
-- Computer
-    + MS Office Suite
+*Executive*
+
+- Highly-organized
+- Detail-oriented
+  + Analytical (problem-solving)
+  + Verbal/written communication
+
+*Computer*
+
+- Microsoft Office Suite (word-processing, spreadsheets, slide presentations, etc.)
 
 # References
 
 Brenda and King Batey, Owners \hspace{3em} Kingfish Beach Retreat, LLC. \hfill Long Beach, MS
+
+<br>
+
 *Phone:*
 *Email*
