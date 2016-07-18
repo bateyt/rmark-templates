@@ -1,0 +1,67 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/GitHub/markdown-templates/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "Resume"
+author: Jacqueline M. Johnson
+
+# jobtitle: "Chief Brewer, Arthur Guinness & Son"
+address: "106 East Avenue, Long Beach, MS, 39560, USA"
+fontawesome: yes
+email: jacquelinemarie228@gmail.com
+# github: svmiller
+phone: "228-234-1066"
+# web: 
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Professional Profile and Goals
+
+Recent graduate looking for a challenging, entry-level position with potential for growth.
+
+# Employment
+
+*Independent Contractor*
+
+Property Manager (contract) \hspace{3em} [Kingfish Beach Retreat](https://www.vrbo.com/761437) (VRBO)</a> \hfill 2015-Present
+
+Residential housecleaning
+
+*[South Mississippi Regional Center](http://www.smrc.state.ms.us/)*
+
+Staff \hfill 2014-2015
+
+# Education
+
+*Mississippi Gulf Coast Community College*, A.A. General Studies \hfill 2016
+
+*Gulfport High School*, GED \hfill 2009
+
+*Long Beach Senior High School*, General Studies \hfill 2006-2008
+
+# Professional Skills
+
+- Executive
+  + Highly-organized
+    + Detail-oriented
+    + Analytical (problem-solving)
+    + Verbal/written communication
+- Computer
+    + MS Office Suite
+
+# References
+
+Brenda and King Batey, Owners \hspace{3em} Kingfish Beach Retreat, LLC. \hfill Long Beach, MS
+*Phone:*
+*Email*
